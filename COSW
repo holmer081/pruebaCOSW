@@ -1,0 +1,5 @@
+git status
+git init
+git add______
+git commit -m "abc"
+git push_____master
